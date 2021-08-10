@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi, check out my projects!
 
-<!--
-**cmstiver/cmstiver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently, this is my to-do list for topics to learn:
 
-Here are some ideas to get you started:
+| Topic  | Progess | Status |
+| ------------- | ------------- | ------------ |
+| Foundational Skills | 100% | Completed |
+| Javascript / React.JS Basics | 99% | On Pause |
+| In Depth CSS/HTML  | 70% | Actively Studying |
+| Node.JS / Express / MongoDB Basics | 0% | Not Started |
+| Typescript Basics | 0% | Not Started |
+| Ruby / Rails Basics | 10% | On Pause |
+| SQL Basics | 0% | Not Started |
+| Who Knows | What's | NEXT |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**NOTE: I don't update this everyday.**
+
