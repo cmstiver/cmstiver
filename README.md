@@ -8,7 +8,7 @@ Currently, this is my to-do list for topics to learn:
 | Javascript / React.JS Basics | 99% | On Pause |
 | In Depth CSS/HTML/UX  | 99% | On Pause |
 | Node.JS / Express / MongoDB Basics | 60% | Actively Studying |
-| Typescript Basics | 20% | Learning on the Side |
+| Typescript Basics | 100% | Completed |
 | Ruby / Rails Basics | 10% | On Pause |
 | SQL Basics | 0% | Not Started |
 | Who Knows | What's | NEXT |
