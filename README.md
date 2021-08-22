@@ -5,8 +5,8 @@ Currently, this is my to-do list for topics to learn:
 | Topic  | Progess | Status |
 | ------------- | ------------- | ------------ |
 | Foundational Skills | 100% | Completed |
-| Javascript / React.JS Basics | 99% | On Pause |
-| In Depth CSS/HTML/UX  | 99% | On Pause |
+| Javascript / React.JS Basics | 100% | Completed |
+| In Depth CSS/HTML/UX  | 100% | Completed |
 | Node.JS / Express / MongoDB Basics | 70% | Actively Studying |
 | Ruby / Rails Basics | 10% | On Pause |
 | SQL Basics | 0% | Not Started |
