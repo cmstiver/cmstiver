@@ -1,19 +1,5 @@
 Hi, check out my projects!
 
-Currently, this is my to-do list for topics to learn:
-
-| Topic  | Progess | Status |
-| ------------- | ------------- | ------------ |
-| Foundational Skills | 100% | Completed |
-| Javascript / React.JS Basics | 100% | Completed |
-| In Depth CSS/HTML/UX  | 100% | Completed |
-| Node.JS / Express / MongoDB Basics | 70% | Actively Studying |
-| Ruby / Rails Basics | 10% | On Pause |
-| SQL Basics | 0% | Not Started |
-| Who Knows | What's | NEXT |
-
-**NOTE: I don't update this everyday.**
-
 ## Languages and Tools:
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="html5" width="40" height="40"/> </a> 
