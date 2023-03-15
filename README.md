@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [AI Art Arena](https://github.com/cmstiver/ai-art-arena).<br><br>🌱 I’m currently learning Django and PostgreSQL.
+🔭 I’m currently working on [Twiverse](https://github.com/cmstiver/twitter-clone).<br><br>🌱 I’m currently learning Django and PostgreSQL.
 
 
 ## 🌐 Socials:
